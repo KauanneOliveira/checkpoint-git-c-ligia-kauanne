@@ -5,7 +5,7 @@ int main(){
     printf("\t\tNOMES\n");
     printf("=======================\n\n");
 
-    printf("---------Ligia---------");
-    printf("Kauanne");
+    printf("---------Ligia---------\n");
+    printf("\t\tKauanne");
     return 0;
 }
