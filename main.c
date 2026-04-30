@@ -7,5 +7,7 @@ int main(){
 
     printf("---------Ligia---------\n");
     printf("\t\tKauanne");
+
+    printf("\n\n=======================\n\n");
     return 0;
 }
