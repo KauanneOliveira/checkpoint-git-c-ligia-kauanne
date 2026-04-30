@@ -1,6 +1,6 @@
 #include <stdio.h>
  
 int main(){
-    printf("----------Ligia----------");
+    printf("---------Ligia---------");
     return 0;
 }
